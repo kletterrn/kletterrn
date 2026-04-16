@@ -15,7 +15,7 @@
 
 ## Über mich
 
-Ich komme aus der kreativen Seite der digitalen Welt – als ausgebildeter **Medienassistent** und **Webdesign & Marketing Expert** habe ich 3 Jahre lang echte Projekte für echte Kunden umgesetzt. Dabei bin ich immer tiefer in die technische Seite eingetaucht: HTML, CSS, SQL, Logik, Struktur.
+Ich komme aus der Design Welt – als ausgebildeter **Medienassistent** und **Webdesign & Marketing Expert** habe ich 3 Jahre lang Projekte für Kunden umgesetzt. Dabei bin ich immer tiefer in die technische Seite eingetaucht: HTML, CSS, SQL, Logik, Struktur.
 
 Jetzt möchte ich den nächsten Schritt gehen und suche eine **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** – um das, was ich intuitiv bereits kann, auf ein solides theoretisches Fundament zu stellen.
 
