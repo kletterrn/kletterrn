@@ -24,7 +24,7 @@ david = {
     "wohnort":       "Haßloch, Rheinland-Pfalz 🇩🇪",
     "ausbildung":    "Medienassistent (2023)",
     "aktuell":       "Suche Ausbildungsplatz FAE 2026",
-    "lerne_gerade":  ["Python", "Java", "C#", "Git"],
+    "lerne_gerade":  ["Python", "SQL", "Git"],
     "stärken":       ["Webdesign", "UI/UX", "Kreativlösungen", "Teamarbeit"],
     "sprachen":      {"Deutsch": "Muttersprache", "Englisch": "Fließend"},
 }
