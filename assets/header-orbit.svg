@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">David Khaliqi — Curiosity, made real.</title><desc id="desc">An editorial black and cream header with an abstract violet wireframe globe with intersecting orbital rings.</desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#a592ff" stop-opacity=".7"/><stop offset="1" stop-color="#7361a8" stop-opacity="0"/></radialGradient>
+<linearGradient id="prism" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c6baff" stop-opacity=".8"/><stop offset=".45" stop-color="#9180d1" stop-opacity=".15"/><stop offset="1" stop-color="#d9e7fa" stop-opacity=".5"/></linearGradient>
+<linearGradient id="beam"><stop stop-color="#bcabff" stop-opacity="0"/><stop offset=".5" stop-color="#bcabff" stop-opacity=".45"/><stop offset="1" stop-color="#bcabff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="420" rx="16" fill="#111113"/>
+<circle cx="1000" cy="210" r="260" fill="url(#glow)" opacity=".4"/>
+<g fill="none" stroke="#ffffff" stroke-opacity=".045"><path d="M0 105H1280M0 210H1280M0 315H1280M320 0V420M640 0V420M960 0V420"/></g>
+<g transform="translate(1000 210)">
+<circle r="154" fill="#191621" stroke="#b7a5fb" stroke-opacity=".25"/>
+<g fill="none" stroke="#c6baff" stroke-width="1.2">
+<ellipse rx="154" ry="154" stroke-opacity=".65"/>
+<ellipse rx="124" ry="154" stroke-opacity=".35"/>
+<ellipse rx="76" ry="154" stroke-opacity=".35"/>
+<ellipse rx="25" ry="154" stroke-opacity=".35"/>
+<ellipse rx="154" ry="105" stroke-opacity=".35"/>
+<ellipse rx="154" ry="48" stroke-opacity=".35"/>
+<path d="M-154 0H154M0-154V154" stroke-opacity=".25"/>
+</g>
+<g fill="none" stroke="#b7a5fb" transform="rotate(-32)">
+<ellipse rx="231" ry="72" stroke-opacity=".16" stroke-width="14"/>
+<ellipse rx="231" ry="72" stroke-opacity=".85" stroke-width="1.5"/>
+</g>
+<g fill="none" stroke="#e4ddff" transform="rotate(46)">
+<ellipse rx="199" ry="84" stroke-opacity=".35"/>
+</g>
+<circle cx="196" cy="-87" r="6" fill="#e5dcff"/>
+<circle cx="196" cy="-87" r="13" fill="none" stroke="#b7a5fb" stroke-opacity=".3"/>
+<circle cx="-159" cy="111" r="4" fill="#b7a5fb"/>
+<path d="M-236-128h18m-9-9v18M195 131h12m-6-6v12" stroke="#c6baff" stroke-opacity=".5"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="60" y="60" fill="#f0eee9" font-size="13" letter-spacing="3">DAVID KHALIQI <tspan fill="#827b96"> / </tspan> DESIGN &amp; DEVELOPMENT</text>
+<circle cx="66" cy="106" r="4" fill="#b7a5fb"/>
+<text x="80" y="110" fill="#c1b9d0" font-size="11" letter-spacing="2">INDEPENDENT MIND. OPEN POSSIBILITIES.</text>
+<text x="55" y="213" fill="#f0eee9" font-size="83" font-weight="700" letter-spacing="-4">Curiosity,</text>
+<text x="55" y="301" fill="#f0eee9" font-size="83" font-weight="700" letter-spacing="-4">made <tspan fill="#b7a5fb" font-family="Georgia, serif" font-style="italic" font-weight="400">real.</tspan></text>
+<path d="M60 344H640" stroke="#f0eee9" stroke-opacity=".18"/>
+<text x="60" y="378" fill="#a39fa9" font-size="13">Design, code, and everything in between.</text>
+<text x="1190" y="378" text-anchor="end" fill="#a39fa9" font-size="10" letter-spacing="2">DK / 01</text>
+</g></svg>
