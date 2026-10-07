@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">David Khaliqi — Curiosity, made real.</title><desc id="desc">An editorial black and cream header with an abstract violet prism.</desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#a592ff" stop-opacity=".7"/><stop offset="1" stop-color="#7361a8" stop-opacity="0"/></radialGradient>
+<linearGradient id="prism" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c6baff" stop-opacity=".8"/><stop offset=".45" stop-color="#9180d1" stop-opacity=".15"/><stop offset="1" stop-color="#d9e7fa" stop-opacity=".5"/></linearGradient>
+<linearGradient id="beam"><stop stop-color="#bcabff" stop-opacity="0"/><stop offset=".5" stop-color="#bcabff" stop-opacity=".45"/><stop offset="1" stop-color="#bcabff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="420" rx="16" fill="#111113"/>
+<circle cx="1000" cy="210" r="260" fill="url(#glow)" opacity=".4"/>
+<g fill="none" stroke="#ffffff" stroke-opacity=".045"><path d="M0 105H1280M0 210H1280M0 315H1280M320 0V420M640 0V420M960 0V420"/></g>
+<path d="M745 360 1020 56 1175 340Z" fill="url(#prism)" stroke="#d3c8ff" stroke-opacity=".6"/>
+<path d="m1020 56-24 272 179 12M745 360l251-32" fill="none" stroke="#d3c8ff" stroke-opacity=".4"/>
+<path d="M700 270 1280 90" stroke="url(#beam)" stroke-width="30"/>
+<path d="M700 270 1280 90" stroke="#d9d0ff" stroke-opacity=".55"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="60" y="60" fill="#f0eee9" font-size="13" letter-spacing="3">DAVID KHALIQI <tspan fill="#827b96"> / </tspan> DESIGN &amp; DEVELOPMENT</text>
+<circle cx="66" cy="106" r="4" fill="#b7a5fb"/>
+<text x="80" y="110" fill="#c1b9d0" font-size="11" letter-spacing="2">INDEPENDENT MIND. OPEN POSSIBILITIES.</text>
+<text x="55" y="213" fill="#f0eee9" font-size="83" font-weight="700" letter-spacing="-4">Curiosity,</text>
+<text x="55" y="301" fill="#f0eee9" font-size="83" font-weight="700" letter-spacing="-4">made <tspan fill="#b7a5fb" font-family="Georgia, serif" font-style="italic" font-weight="400">real.</tspan></text>
+<path d="M60 344H640" stroke="#f0eee9" stroke-opacity=".18"/>
+<text x="60" y="378" fill="#a39fa9" font-size="13">Design, code, and everything in between.</text>
+<text x="1190" y="378" text-anchor="end" fill="#a39fa9" font-size="10" letter-spacing="2">DK / 01</text>
+</g></svg>
