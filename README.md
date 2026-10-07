@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="David Khaliqi — Curiosity, made real. Design, code, and everything in between.">
+  <img src="./assets/header-orbit.svg" width="100%" alt="David Khaliqi — Curiosity, made real. Design, code, and everything in between.">
 </p>
 
 <p align="center">
@@ -20,41 +20,6 @@ My projects bring together **visual design, software development, and hands-on e
 
 > **My next chapter:** an application development apprenticeship starting in **2027**.  
 > Currently working toward the **Google Cybersecurity Professional Certificate**.
-
-<br>
-
-## Ideas in practice
-
-### 01 &nbsp; / &nbsp; Project Ignis
-**Satellite observations. Human-readable.**
-
-An approachable map for exploring NASA FIRMS observations. A project at the intersection of data, APIs, and interface design — turning raw information into something easier to understand.
-
-`Python` `Flask` `JavaScript` `API integration`
-
-[Explore the code ↗](https://github.com/kletterrn/Ignis) &nbsp; · &nbsp; [Project story ↗](https://kletterrn.github.io/work/ignis/)
-
----
-
-### 02 &nbsp; / &nbsp; Project Orion
-**From geometry to game systems.**
-
-An ongoing Arma Reforger mod exploring aircraft assets, camera controls, reconnaissance HUDs, and mission-map interaction. Editable sources and reproducible builds make the work easier to inspect and develop.
-
-`Arma Reforger` `3D assets` `HUD & interaction` `Build tooling`
-
-[Explore the code ↗](https://github.com/kletterrn/orion-recon-drone) &nbsp; · &nbsp; [Project story ↗](https://kletterrn.github.io/work/orion/) &nbsp; · &nbsp; **In development**
-
----
-
-### 03 &nbsp; / &nbsp; Better Schooling
-**Find the gap. Support the next step.**
-
-An AI-assisted education prototype that helps teachers investigate prerequisite learning gaps, create targeted teaching materials, and collaborate. Includes an API-free demo, editable resources, and PDF export.
-
-`TypeScript` `Python` `FastAPI` `SQL` `AI integration`
-
-[Explore the code ↗](https://github.com/kletterrn/Better-Schooling-Hackathon) &nbsp; · &nbsp; **Hackathon prototype**
 
 <br>
 
