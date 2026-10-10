@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header-orbit.svg" width="100%" alt="David Khaliqi — Curiosity, made real. Design, code, and everything in between.">
-</p>
-
-<p align="center">
   <a href="https://kletterrn.github.io/"><strong>Explore my portfolio ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/david-khaliqi0">LinkedIn</a>
